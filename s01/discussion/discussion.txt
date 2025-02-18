@@ -7,3 +7,5 @@ Topics in FCB:
 - HTML
 - CSS
 
+The date today is February 18, 2025.
+
